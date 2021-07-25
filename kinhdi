@@ -1,6 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1,Điều Kỳ Diệu Của Tiệm Tạp Hóa Namiya 1080p
+#EXTINF:-1,Đỗ Thánh (lồng tiếng)
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210719/all_for_the_winner_1990_hongkong_lt_v3/7c9d8f81ab56a795bfbaf293b37756fb.smil/chunklist_b1596000.m3u8
+#EXTINF:-1,Đỗ Thánh 2 (lồng tiếng)
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210719/godofgamblersii_1991_hongkong_lt_v2/1156fe0cf49a22375ba875baa13d8bac.smil/chunklist_b1596000.m3u8
+#EXTINF:-1,Đỗ Thánh 3: Trở lại Thượng Hải (lồng tiếng)
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170105/4bad772328bc2d14520e6fcf58f4c41c.smil/chunklist_b996000.m3u8
+#EXTINF:-1,Đại Chiến Cương Thi (thuyết minh)
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/ingest/thewalkingdeadvszombie-2015-china-tm/TheWalkingDeadVsZombie_2015_China_TM_vip.smil/chunklist_b996000_sleng.m3u8
+#EXTINF:-1,Điều Kỳ Diệu Của Tiệm Tạp Hóa Namiya
 https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20190520/miraclesofthenamiyageneralstore_2017_japan_v2/67c7d4e2c8cc669bccab14021c0e7fd4_1080p.mp4/chunklist.m3u8
 #EXTINF:-1,Lời Nguyền
 https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201022/ju_on_the_grudge_2002_japan_sub/ee6c9e28aa81bced495716de530873e6_1080p.mp4/chunklist.m3u8
@@ -50,3 +58,71 @@ https://vod02-cdn.fptplay.net/encoded/20200729/shanghai_fortress_2019_china_1080
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200504/train_to_busan_1080p_sub_logofptplay_v3/198cfd3cfabbca658a0818142450476e.smil/playlist.m3u8
 #EXTINF:-1,Trùm, Cớm và Ác Quỷ
 https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200115/the_gangster_the_cop_the_devil_1080p_sub_logofptplay/25331b09a80bcf6c32ce785154064e32.smil/chunklist_b996000.m3u8
+#EXTINF:-1,Thảm Họa Động Đất
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20191221/thequake_1080p_logofptplay/4944206c2330c6ba47e9335d68fa1db2.smil/chunklist_b996000.m3u8
+#EXTINF:-1,Kẻ Đột Kích Bí Ẩn
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20191210/mysterious-raiders-1080p-sub-logofptplay/03eaadccdecad5eebb14b3adaa9fd4c8.smil/chunklist_b996000.m3u8
+#EXTINF:-1,Giấc Mộng Tây Du 2 : Thiết Phiến Công
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20191209/dream_journey_2_princess_iron_fan_1080p_logofptplay/b1fb31a388ea3bff8580c63baa2af53a.smil/chunklist_b996000.m3u8
+#EXTINF:-1,Giấc Mộng Tây Du 3: Kỳ Ngộ Nữ Nhi Quốc
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20191209/dream_journey_3_1080p_sub_logofptplay/9027faa180dfd27b852d31543fbc8647.smil/chunklist_b996000.m3u8
+#EXTINF:-1,Giấc Mộng Tây Du 4: Phục Ma Ký
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20191119/dream_journey_4_biography_of_demon_1080p_logofptplay/28daca8385fdba09988badcf6f76467f.smil/chunklist_b996000.m3u8
+#EXTINF:-1,Công Chúa Mononoke
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170603/f34fc7d06e4f3b4f7feb9cac6e18faaf.smil/chunklist_b996000.m3u8
+#EXTINF:-1,Phong Vân Quyết
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/HoatHinhTM/Storm_Rider_Clash_of_Evils_2008_Blu_Ray_720p_DTS_CHD_TM/Storm_Rider_Clash_of_Evils_2008_Blu_Ray_720p_DTS_CHD_TM.mp4/chunklist.m3u8
+#EXTINF:-1,Báo Thù
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/ingest/ghajini-2008-india-pd/Ghajini_2008_India_PD_sub_vip.smil/chunklist_b996000_sleng.m3u8
+#EXTINF:-1,Chồng Cũ
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20190228/exwifekiller-1080p-logofptplay/6562fb693f9a3426de7608eaf696f7f4.smil/chunklist_b996000.m3u8
+#EXTINF:-1,Tân Thiếu Lâm Tự
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20161208/ae5bae09055bc11d468095469fc01ee7.smil/chunklist_b996000.m3u8
+#EXTINF:-1,Miền Tây Khói Súng
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20180112/americangunslingers-logo/8d155d5b7e1864ac367cd977f706d1d7.smil/chunklist_b996000.m3u8
+#EXTINF:-1,Trốn Chạy
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170620/1a379615b7f177d105c2df5c6daf076d.smil/chunklist_b394000.m3u8
+#EXTINF:-1,Tuyệt Chủng (thuyết minh)
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170509/be4ed38eee2a321c4ae4c97a5d91e6e5.smil/chunklist_b996000.m3u8
+#EXTINF:-1,Bác Học Điên (thuyết minh)
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170605/306a92c95396c327bf6cf8610ddddaed.smil/playlist.m3u8
+#EXTINF:-1,[Phim mới] Điên Tối
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210610/dientoi_2021_vietnam_1080p_logofptplay_backup/0aa9a1683cc1c70b9414b0ac3162699a.smil/chunklist_b1596000.m3u8
+#EXTINF:-1,Võ Hiệp (thuyết minh)
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210715/swordsmen_2011_hongkong_1080p_tm/a07928faa088fd0e7977cae7efd34bd1.smil/chunklist_b1596000.m3u8
+#EXTINF:-1,Đại Chiến Titan
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200720/attack_on_titan_part_1_2015_japan_sub/69a1ba57cae1775f2eeba8d20f231418.smil/chunklist_b1596000.m3u8
+#EXTINF:-1,Đại Chiến Titan 2: Tận Thế
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200720/attack-on-titan-part-2-2015-japan-sub/af6d2d5c58e86f2106349a4a27d5003e.smil/chunklist_b1596000.m3u8
+#EXTINF:-1,Đại Chiến Yakuza (thuyết minh)
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/ingest/yakuzaapocalypse-2015-japan-tm/YakuzaApocalypse_2015_Japan_TM_vip.smil/chunklist_b996000_sleng.m3u8
+#EXTINF:-1,Kẻ Đột Kích Bí Ẩn
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20191210/mysterious-raiders-1080p-sub-logofptplay/03eaadccdecad5eebb14b3adaa9fd4c8.smil/chunklist_b996000.m3u8
+#EXTINF:-1,Hợp Đồng Giết Thuê
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20161211/05989b40b89756ccb70cd4dbe4191291.smil/chunklist_b996000.m3u8
+#EXTINF:-1,Kích Chiến
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201109/unbeatable_2013_hongkong_v2/b2644f30ec11a52f9523703365a74a73.smil/chunklist_b1596000.m3u8
+#EXTINF:-1,Long Chiến
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/OTT/TV_Series/DWar_2007_SouthKorea/DWar_2007_SouthKorea.mp4/chunklist.m3u8
+#EXTINF:-1,Nghịch Chiến
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20191114/theviralfactor_1080p_logofptplay/aa6b61312414749fa755aba7fef424cc.smil/chunklist_b996000.m3u8
+#EXTINF:-1,Ngoài Vòng Pháp Luật
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200212/the-outlaws-fptplay-4k-1080p-sub-logofptplay/8b1f84db0805642a624e61e8dd5b9db2.smil/chunklist_b996000.m3u8
+#EXTINF:-1,Nữ Vệ Sĩ
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200331/close_ftpplay_4k_1080p_sub_logofptplay_v5/8f8551439c6ee64b2db3dc8da3becaec.smil/chunklist_b996000.m3u8
+#EXTINF:-1,Siêu Xạ Thủ
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210707/the_sniper_2009_china_1080p_sub_v2/97b25e159946104b61a33b6982891d1e.smil/chunklist_b1596000.m3u8
+#EXTINF:-1,Sóng Dữ
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170825/shockwave-2017-china-v2/5e7d9f47477fd5c41196628a1e271fdb.smil/chunklist_b394000.m3u8
+#EXTINF:-1,Sứ Mệnh Truy Sát (thuyết minh)
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200913/assassination-2015-korea-tm-v2/84f5fc3df0fc916b4dad8a9210612ec2.smil/playlist.m3u8
+#EXTINF:-1,Trạng Nguyên Tô Khất Nhi (lồng tiếng)
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170331/04ae898a459924ea4494d1293c8cea31.smil/chunklist_b996000.m3u8
+#EXTINF:-1,Trò Chơi Sinh Tử
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20161123/5552607773fd84c7e84cdab5cd64f7a2.smil/chunklist_b996000.m3u8
+#EXTINF:-1,Trò Chơi Sinh Tử 2
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20180423/battleroyale2-2003-japan/9a2e18771055982e2dfe04311864906f.smil/chunklist_b996000.m3u8
+#EXTINF:-1,4 Năm 2 Chàng 1 Tình Yêu
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20191213/4-nam-2-chang-1-tinh-yeu-1080p-logofptplay/31707867ee7bbfce102edf635e592c09.smil/chunklist_b996000.m3u8
+#EXTINF:-1,Bịp Vương (lồng tiếng)
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20190612/the_tricky_master_1999_hongkong_lt/2360b89d7bed8c13dbd63b3e09d0310c.smil/chunklist_b996000.m3u8
